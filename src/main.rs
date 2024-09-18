@@ -53,7 +53,7 @@ fn main() {
     println!("  - The angle of the sail relative to the sunlight, which affects the force exerted.");
     println!("  - Trajectory adjustments using light pressure for course correction.");
     println!("  - Sophisticated navigation techniques to avoid obstacles and reach destinations.");
-    println!("Thank you for exploring space with solar sails!");
+    println!("Thank you for exploring space with us!");
 }
 
 // Function to update position based on force, mass, and time step
